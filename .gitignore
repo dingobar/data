@@ -1,3 +1,6 @@
 .DS_Store
 aws.json
 .Rhistory
+.env
+venv
+.vscode
